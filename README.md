@@ -8,7 +8,6 @@ Here’s an updated version of your README with added information about location
 ![Image](https://github.com/user-attachments/assets/9f5e1171-2a1d-46de-9a8e-04c119a7c2eb)
 ![Image](https://github.com/user-attachments/assets/7b7e793a-52f9-4a07-a3b7-d3dccab3d69b)
 ![Image](https://github.com/user-attachments/assets/b8b040df-75ef-42f7-93f4-0b17d046b6e4)
-![Image](https://github.com/user-attachments/assets/b88fa96b-16ca-4414-a9d2-3b7f8d76b6ed)
 
 ![Image](https://github.com/user-attachments/assets/155bc1f4-8948-4236-b580-e73010d27b5d)
 ![Image](https://github.com/user-attachments/assets/f1860b15-04bf-442b-883e-4814be544440)
