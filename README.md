@@ -1,4 +1,8 @@
+To add details about **location** and the **latest SDK** version in your README file, we will update the relevant sections to reflect these changes.
 
+Here’s an updated version of your README with added information about location services and the latest SDK:
+
+---
 
 # Booking Application
 
@@ -7,6 +11,9 @@ This Flutter project is a **Booking Application** that offers users a seamless w
 ## SDK Version
 
 This project is built with the latest stable **Flutter SDK** version. Ensure you're using the latest Flutter version to guarantee compatibility with all dependencies.
+
+**Latest SDK Version**:  
+Make sure to use Flutter version **3.29.0x** or higher for compatibility with all dependencies and features.
 
 ## Installation & Setup
 
@@ -60,7 +67,11 @@ To get started with the project, follow these simple steps:
 
 - **Content Sharing**: `share_plus` is integrated to allow users to share content like booking details or promotions via different social media platforms.
 
-- **Geolocation & Permissions**: `geolocator`, `geocoding`, and `permission_handler` are used for location-based services, including geolocation tracking, reverse geocoding, and requesting user permissions.
+- **Geolocation & Permissions**:  
+   The app uses `geolocator`, `geocoding`, and `permission_handler` to manage location services. This includes:
+   - **Geolocation**: Get the user's current location (latitude and longitude).
+   - **Geocoding**: Convert coordinates into human-readable addresses.
+   - **Permissions**: Request and manage permissions for accessing location services.
 
 - **Notifications**: `flutter_local_notifications` allows the app to schedule and display notifications, ensuring users stay informed about their bookings and upcoming events.
 
@@ -96,4 +107,32 @@ The following dependencies are used in this project:
 - **intl**: For localization and date formatting.
 - **get_it**: For dependency injection using the service locator pattern.
 - **shared_preferences**: For storing lightweight data locally.
-- **share_plus**: For sharing content
+- **share_plus**: For sharing content via social media platforms.
+- **geolocator**: For geolocation services, including fetching the device's current location.
+- **geocoding**: For reverse geocoding, converting coordinates into addresses.
+- **permission_handler**: For requesting permissions to access location and other services.
+- **flutter_local_notifications**: For scheduling and displaying local notifications.
+- **timezone**: For managing time zones and adjusting notifications accordingly.
+
+---
+
+## Contributing
+
+We welcome contributions to this project! To contribute:
+
+1. **Fork the repository** to your own GitHub account.
+2. **Create a new branch**: `git checkout -b feature-name`.
+3. **Make your changes**: Add a new feature or fix a bug.
+4. **Commit your changes**: `git commit -am 'Add new feature'`.
+5. **Push to your branch**: `git push origin feature-name`.
+6. **Create a pull request**: Describe the changes you’ve made and submit it for review.
+
+---
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
+This updated README now includes details about **location** functionality and mentions the **latest SDK** version required for the project. Let me know if you need any further modifications!
