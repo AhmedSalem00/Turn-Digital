@@ -1,8 +1,4 @@
-To add details about **location** and the **latest SDK** version in your README file, we will update the relevant sections to reflect these changes.
 
-Here’s an updated version of your README with added information about location services and the latest SDK:
-
----
 ![Image](https://github.com/user-attachments/assets/af93900b-6907-4185-bdff-13ec8ba52f47) ![Image](https://github.com/user-attachments/assets/58c886e4-1ff0-41a9-9ae6-2c2b826a591e)
 
 ![Image](https://github.com/user-attachments/assets/9f5e1171-2a1d-46de-9a8e-04c119a7c2eb)
